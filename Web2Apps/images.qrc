@@ -1,0 +1,82 @@
+<RCC>
+    <qresource prefix="/">
+        <file>iphone_PNG5743.png</file>
+        <file>appbackground.jpg</file>
+        <file>logo.png</file>
+        <file>IconPack/User Interface/32 - Uppercase (Solid).png</file>
+        <file>IconPack/User Interface/33 - Lowercase (Solid).png</file>
+        <file>IconPack/Design/3 - Color Pallette (Solid).png</file>
+        <file>IconPack/Design/14 - Distort (Solid).png</file>
+        <file>images/Buttons/Back.svg</file>
+        <file>images/Buttons/Forward.svg</file>
+        <file>images/Icons/Add.svg</file>
+        <file>images/Icons/Android.svg</file>
+        <file>images/Icons/Apple.svg</file>
+        <file>images/Icons/Back.svg</file>
+        <file>images/Icons/Code.svg</file>
+        <file>images/Icons/Default picture Windows Apps.svg</file>
+        <file>images/Icons/Delete.svg</file>
+        <file>images/Icons/Edit Add.svg</file>
+        <file>images/Icons/Edit Button.svg</file>
+        <file>images/Icons/Edit Image.svg</file>
+        <file>images/Icons/Edit TXT.svg</file>
+        <file>images/Icons/Forward.svg</file>
+        <file>images/Icons/Global background.svg</file>
+        <file>images/Icons/Global color.svg</file>
+        <file>images/Icons/Global structure.svg</file>
+        <file>images/Icons/Global.svg</file>
+        <file>images/Icons/Home Phone.svg</file>
+        <file>images/Icons/Menu Phone.svg</file>
+        <file>images/Icons/Menu.svg</file>
+        <file>images/Icons/Project Generate.svg</file>
+        <file>images/Icons/Project Reset.svg</file>
+        <file>images/Icons/Project.svg</file>
+        <file>images/Icons/Reset.svg</file>
+        <file>images/Icons/Search.svg</file>
+        <file>images/Icons/Select color.svg</file>
+        <file>images/Icons/Select decrease.svg</file>
+        <file>images/Icons/Select increase.svg</file>
+        <file>images/Icons/Select search url.svg</file>
+        <file>images/Icons/Select.svg</file>
+        <file>images/Icons/Switch Size.svg</file>
+        <file>images/Icons/Update.svg</file>
+        <file>images/Icons/Windows.svg</file>
+        <file>images/Icons/Add Elem2Interface4.svg</file>
+        <file>images/Icons/Add new Layer.svg</file>
+        <file>images/Icons/Back Button Phone.svg</file>
+        <file>images/Icons/Not Add Elem2Interface4.svg</file>
+        <file>images/Icons/Web Icon.svg</file>
+        <file>images/html-images/editcopy.svg</file>
+        <file>images/html-images/editcut.svg</file>
+        <file>images/html-images/editpaste.svg</file>
+        <file>images/html-images/editredo.svg</file>
+        <file>images/html-images/editundo.svg</file>
+        <file>images/html-images/exportpdf.svg</file>
+        <file>images/html-images/exportpdf2.svg</file>
+        <file>images/html-images/fileopen.svg</file>
+        <file>images/html-images/fileprint.svg</file>
+        <file>images/html-images/filesave.svg</file>
+        <file>images/html-images/Ifilenew.svg</file>
+        <file>images/html-images/image.svg</file>
+        <file>images/html-images/paint-drop.svg</file>
+        <file>images/html-images/qt-logo.svg</file>
+        <file>images/html-images/source.svg</file>
+        <file>images/html-images/table.svg</file>
+        <file>images/html-images/textbold.svg</file>
+        <file>images/html-images/textcenter.svg</file>
+        <file>images/html-images/textitalic.svg</file>
+        <file>images/html-images/textjustify.svg</file>
+        <file>images/html-images/textleft.svg</file>
+        <file>images/html-images/textright.svg</file>
+        <file>images/html-images/textunder.svg</file>
+        <file>images/html-images/zoomin.svg</file>
+        <file>images/html-images/zoomout.svg</file>
+        <file>images/Iconpack Minimal Discard.svg</file>
+        <file>images/Iconpack Minimal down.svg</file>
+        <file>images/Iconpack Minimal Lock closed.svg</file>
+        <file>images/Iconpack Minimal Lock open.svg</file>
+        <file>images/Iconpack Minimal Up.svg</file>
+        <file>images/Iconpack Minimal Edit 2.svg</file>
+        <file>images/Iconpack Minimal View 2.svg</file>
+    </qresource>
+</RCC>

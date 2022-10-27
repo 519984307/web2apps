@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/AutoBlockItem.qml</file>
+        <file>qml/AutoButton.qml</file>
+        <file>qml/AutoElement.qml</file>
+        <file>qml/AutoFormHeader.qml</file>
+        <file>qml/AutoFormItem.qml</file>
+        <file>qml/AutoImageItem.qml</file>
+        <file>qml/mainPhone.qml</file>
+        <file>qml/PhoneScreen.qml</file>
+        <file>bg-2.jpg</file>
+        <file>qml/AutoHtmlEditor.qml</file>
+        <file>qml/PhoneScreenZone.qml</file>
+        <file>qml/AutoElementMenu.qml</file>
+        <file>qml/BasicElements/DText.qml</file>
+        <file>qml/BasicElements/SButton.qml</file>
+        <file>qml/BasicElements/HighlightingImage.qml</file>
+        <file>qml/BasicElements/Tooltip.qml</file>
+        <file>qml/BasicElements/HtmlEditorBar.qml</file>
+        <file>qml/BasicElements/InputTextMultilineBox.qml</file>
+        <file>qml/BasicElements/IconHolderButton.qml</file>
+        <file>images/imggurloader.gif</file>
+    </qresource>
+</RCC>

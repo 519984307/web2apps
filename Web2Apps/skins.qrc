@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Skins/BlueBuilding/BlueBuilding.js</file>
+        <file>qml/Skins/BlueBuilding/building.jpg</file>
+        <file>qml/Skins/BlueBuilding/logo.png</file>
+        <file>qml/Skins/BlueBuilding/suggestionbubble.png</file>
+        <file>qml/Skins/FlowerPower/flower-abstract-background_z1Gz5F5O.jpg</file>
+        <file>qml/Skins/FlowerPower/FlowerPower.js</file>
+        <file>qml/Skins/FlowerPower/logo.png</file>
+        <file>qml/Skins/FlowerPower/suggestionbubble.png</file>
+        <file>qml/Skins/LeanRose/LeanRose.js</file>
+        <file>qml/Skins/LeanRose/logo.png</file>
+        <file>qml/Skins/LeanRose/suggestionbubble.png</file>
+        <file>qml/Skins/LeanRose/violet-orchids_My6N_crO.jpg</file>
+        <file>qml/Skins/ModernGrey/green-wheat_Gyrxl_P_.jpg</file>
+        <file>qml/Skins/ModernGrey/logo.png</file>
+        <file>qml/Skins/ModernGrey/ModernGrey.js</file>
+        <file>qml/Skins/ModernGrey/suggestionbubble.png</file>
+        <file>qml/Skins/OriginalGreen/logo.png</file>
+        <file>qml/Skins/OriginalGreen/orange-stained-glass-texture_zJkGtd5O.jpg</file>
+        <file>qml/Skins/OriginalGreen/OriginalGreen.js</file>
+        <file>qml/Skins/OriginalGreen/suggestionbubble.png</file>
+        <file>qml/Skins/skins.js</file>
+        <file>qml/Skins/Fonts/GOTHIC.TTF</file>
+        <file>qml/Skins/BlueBuilding/SynNext.jpg</file>
+        <file>qml/Skins/FlowerPower/SynNext.jpg</file>
+        <file>qml/Skins/LeanRose/SynNext.jpg</file>
+        <file>qml/Skins/ModernGrey/SynNext.jpg</file>
+        <file>qml/Skins/OriginalGreen/SynNext.jpg</file>
+        <file>qml/Skins/BlackAndWhite/BlackAndWhite.js</file>
+        <file>qml/Skins/BlackAndWhite/logo.png</file>
+        <file>qml/Skins/BlackAndWhite/suggestionbubble.png</file>
+        <file>qml/Skins/BlackAndWhite/BlackAndWhite.jpg</file>
+        <file>qml/Skins/BlackAndWhite/SynNext.jpg</file>
+        <file>qml/Skins/Universe/Universe.js</file>
+        <file>qml/Skins/Universe/suggestionbubble.png</file>
+        <file>qml/Skins/Universe/SynNext.jpg</file>
+        <file>qml/Skins/Universe/backgroundgalaxy.jpg</file>
+        <file>qml/Skins/Universe/Logoexample.svg</file>
+        <file>qml/Skins/Universe/Logoexample.png</file>
+        <file>qml/Skins/Universe/logo.png</file>
+    </qresource>
+</RCC>
