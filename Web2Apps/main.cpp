@@ -49,9 +49,7 @@ int main(int argc, char *argv[])
 
     QApplication app(argc, argv); // Not directly used but necessary for creating QWebpage
 
-    qDebug()<<"WHAT";
-    exit(0);
-    return 0;
+
     qsrand(uint(QDateTime::currentMSecsSinceEpoch() & 0xFFFFFFFF));
 
     //Bug reported here: https://bugreports.qt.io/browse/QTBUG-44505
@@ -100,8 +98,6 @@ int main(int argc, char *argv[])
     g_Resizer = new resizer();
 
     QQmlApplicationEngine viewer;
-
-
 #ifndef CONVERSION_SERVER
     viewer.rootContext()->setContextProperty("domParser", domParser);
     qmlRegisterType<DocumentHandler>("MyDocument", 1, 0, "DocumentHandler");

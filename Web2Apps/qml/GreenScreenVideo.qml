@@ -39,7 +39,7 @@ Item {
 
         // This is the fragment shaderc code in GLSL (GL Shading Language)
         fragmentShader: "
-            varying int vec2 qt_TexCoord0;  // The coords within the source item
+            varying highp vec2 qt_TexCoord0;  // The coords within the source item
             uniform sampler2D source;         // The source item texture
             void main(void)
             {
@@ -48,7 +48,7 @@ Item {
 
                     if(((sourceColor.r+sourceColor.b)*0.7<sourceColor.g)&&
                         ((sourceColor.r+sourceColor.b+sourceColor.g)>0.4)){
-                        float alpha=0.0;
+                        float alpha=0;
                         sourceColor *= alpha;
                     }
 
